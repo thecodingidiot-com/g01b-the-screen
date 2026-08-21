@@ -109,4 +109,4 @@ work, no third-party rights.
 
 ## License
 
-[GNU General Public License v2.0](LICENSE)
+[MIT License](LICENSE)
