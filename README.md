@@ -14,8 +14,8 @@ the chapter's implementation pages, building the game one layer at a time.
 When you reach the final page, run the tester:
 
 ```bash
-git clone https://github.com/thecodingidiot-com/g01b-the-developer-graphical.git
-cp g01b-the-developer-graphical/test.sh ~/g01b-practice/
+git clone https://github.com/thecodingidiot-com/g01b-the-screen.git
+cp g01b-the-screen/test.sh ~/g01b-practice/
 cd ~/g01b-practice
 bash test.sh
 ```
