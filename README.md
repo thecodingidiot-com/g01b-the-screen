@@ -1,4 +1,4 @@
-# g01b — Who Wants to Be a Game Developer? Graphical
+# g01b — The Screen
 
 Rebuild the g01a terminal quiz game as a fully graphical SDL2 application —
 same questions, same lifelines, same prize ladder; `tci_printf` replaced by

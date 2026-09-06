@@ -1,5 +1,5 @@
 #!/bin/bash
-# g01b — Who Wants to Be a Game Developer? Graphical / test.sh
+# g01b — The Screen / test.sh
 #
 # Tests game logic (headless — no SDL2 output). Compiles load.c and a
 # headless subset of game.c without SDL2 headers.
@@ -38,7 +38,7 @@ hr() { echo "──────────────────────�
 
 banner() {
     hr
-    echo "  g01b — Who Wants to Be a Game Developer? Graphical / test.sh"
+    echo "  g01b — The Screen / test.sh"
     hr
 }
 
