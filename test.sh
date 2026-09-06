@@ -74,7 +74,7 @@ preflight() {
         ok=0
     fi
     if [[ ! -d "$FIXTURES" ]]; then
-        echo "error: fixtures/ not found — keep the g01b-the-developer-graphical clone alongside" >&2
+        echo "error: fixtures/ not found — keep the g01b-the-screen clone alongside" >&2
         ok=0
     fi
     [[ $ok -eq 0 ]] && exit 1
